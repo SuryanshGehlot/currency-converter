@@ -22,7 +22,6 @@ A fast, responsive, and modern **currency converter** built using **React + Vite
 
 Live App: [https://SuryanshGehlot.github.io/currency-converter](https://SuryanshGehlot.github.io/currency-converter)
 
-> Make sure you deploy it using `gh-pages` as we discussed.
 
 ---
 
