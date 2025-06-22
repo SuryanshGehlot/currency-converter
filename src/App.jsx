@@ -30,7 +30,7 @@ function App() {
       style={{ backgroundImage: "url('/bgimage.png')" }}
     >
       {/* Heading */}
-      <h1 className="text-3xl sm:text-4xl text-white font-semibold mb-6">
+      <h1 className="text-3xl sm:text-4xl text-black font-semibold mb-6">
         Currency Converter
       </h1>
 
