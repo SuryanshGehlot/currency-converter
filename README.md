@@ -30,7 +30,7 @@ Live App: [https://SuryanshGehlot.github.io/currency-converter](https://Suryansh
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Exchange Rate API](#) *(add your source if you used one)*
+- [Exchange Rate API](https://github.com/fawazahmed0/exchange-api) 
 
 ---
 
