@@ -1,12 +1,44 @@
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![GitHub repo size](https://img.shields.io/github/repo-size/SuryanshGehlot/currency-converter)](https://github.com/SuryanshGehlot/currency-converter)
+[![GitHub stars](https://img.shields.io/github/stars/SuryanshGehlot/currency-converter)](https://github.com/SuryanshGehlot/currency-converter/stargazers)
+[![GitHub license](https://img.shields.io/github/license/SuryanshGehlot/currency-converter)](https://github.com/SuryanshGehlot/currency-converter/blob/main/LICENSE)
 
-Currently, two official plugins are available:
+A fast, responsive, and modern **currency converter** built using **React + Vite** and free API data. Easily swap currencies and get real-time conversions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔁 Swap between any two currencies
+- 🌐 Live conversion using real-time exchange rates
+- 📱 Fully responsive for mobile & desktop
+- 🎨 Clean, minimal UI with blur/glass effect
+- ⚡ Powered by Vite for blazing fast load times
+
+---
+
+## 📸 Demo
+
+Live App: [https://SuryanshGehlot.github.io/currency-converter](https://SuryanshGehlot.github.io/currency-converter)
+
+> Make sure you deploy it using `gh-pages` as we discussed.
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Exchange Rate API](#) *(add your source if you used one)*
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/SuryanshGehlot/currency-converter.git
+cd currency-converter
+npm install
+npm run dev
