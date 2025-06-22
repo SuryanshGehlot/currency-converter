@@ -1,6 +1,5 @@
 import './App.css';
 import { InputBox } from './components/index';
-import bgimage from './assets/bgimage.png';
 import useCurrencyInfo from './hooks/useCurrencyInfo';
 import { useState } from 'react';
 
@@ -28,7 +27,7 @@ function App() {
   return (
     <div
       className="w-full min-h-screen flex flex-col items-center justify-center p-4 bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `url(${bgimage})` }}
+      style={{ backgroundImage: `url('/bgimage.png')` }}
     >
       {/* Heading */}
       <h1 className="text-3xl sm:text-4xl text-white font-semibold mb-6">
