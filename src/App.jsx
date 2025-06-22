@@ -27,7 +27,7 @@ function App() {
   return (
     <div
       className="w-full min-h-screen flex flex-col items-center justify-center p-4 bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `url('/bgimage.png')` }}
+      style={{ backgroundImage: "url('/bgimage.png')" }}
     >
       {/* Heading */}
       <h1 className="text-3xl sm:text-4xl text-white font-semibold mb-6">
